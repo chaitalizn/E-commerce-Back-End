@@ -15,5 +15,5 @@ This application will allow users to view, add, update, and delete categories, p
 
 Walk through demo video link [CLICK HERE](https://drive.google.com/file/d/102QyYFP1vWQJGNQcBfQLhEj8uQEAehSh/view)
 
-![application Demo]() 
+![application Demo](https://github.com/chaitalizn/E-commerce-Back-End/blob/141c44e45f5d43a3bcfda22c78d1762f0502f3b1/assets/E-commerce-back-end-demo.gif) 
   
